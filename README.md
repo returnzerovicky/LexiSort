@@ -1,10 +1,10 @@
-------------------------------------------------------
-              LexiSort
-AI-Powered Email Intelligence Platform
+                    ------------------------------------------------------
+                                          LexiSort
+                         AI-Powered Email Intelligence Platform
 
-Smart Inbox • AI Replies • Semantic Search
-Calendar • Analytics • Gmail Integration
-------------------------------------------------------
+                        Smart Inbox • AI Replies • Semantic Search
+                         Calendar • Analytics • Gmail Integration
+                    ------------------------------------------------------
 
 <div align="center">
   <img src="public/images/lexisort-high-resolution-logo-transparent.png" alt="LexiSort Logo" width="400"/>
